@@ -6,6 +6,6 @@ Just an empty sample repo
 
 About MarkDown Format:
 
-# Text starting '#' witout quotes - creates main header
+# Text starting with'#' without quotes - creates main header
 
-## Text starting '##' witout quotes creates subheader
+## Text starting with '##' without quotes creates subheader
